@@ -1,0 +1,401 @@
+Patient_ID,Age,Gender,Department,Diagnosis,Treatment_Duration_Days,Admission_Type,Treatment_Cost_INR,Discharge_Status
+HP001,68,Female,Emergency,Recorded diagnosis,4,Elective,64667.84,Recovered
+HP002,,Male,Orthopedics,Recorded diagnosis,5,Elective,64147.8,Recovered
+HP003,29,Female,Orthopedics,Recorded diagnosis,1,Elective,27896.8,Recovered
+HP004,56,Male,Emergency,Recorded diagnosis,4,Emergency,59569.17,Recovered
+HP005,19,Male,General Medicine,Recorded diagnosis,3,Elective,34657.12,Recovered
+HP006,35,Male,Cardiology,Recorded diagnosis,2,Elective,49468.65,Recovered
+HP007,49,Male,Cardiology,Recorded diagnosis,3,Elective,63713.24,Recovered
+HP008,19,Male,Orthopedics,Recorded diagnosis,4,Elective,48884.58,Recovered
+HP009,53,Male,Cardiology,Recorded diagnosis,8,Elective,99378.72,Discharged with follow-up
+HP010,21,Male,Pediatrics,Recorded diagnosis,3,Elective,35457.44,Discharged with follow-up
+HP011,34,Male,Neurology,Recorded diagnosis,6,Emergency,83101.67,Recovered
+HP012,,Female,Cardiology,Recorded diagnosis,1,Referral,42209.83,Recovered
+HP013,14,Male,Pediatrics,Recorded diagnosis,4,Elective,42502.38,Recovered
+HP014,46,Female,General Medicine,Recorded diagnosis,7,Emergency,71319.88,Recovered
+HP015,64,Female,Emergency,Recorded diagnosis,6,Emergency,71848.72,Recovered
+HP016,58,Female,Neurology,Recorded diagnosis,11,Emergency,105984.05,Recovered
+HP017,53,Male,Emergency,Recorded diagnosis,5,Emergency,75366.95,Recovered
+HP018,63,Male,Emergency,Recorded diagnosis,3,Elective,52172.68,Recovered
+HP019,9,Female,General Medicine,Recorded diagnosis,2,Elective,29293.03,Recovered
+HP020,20,Male,General Medicine,Recorded diagnosis,6,Emergency,70324.26,Discharged with follow-up
+HP021,58,Male,Emergency,Recorded diagnosis,5,Referral,65338.72,Recovered
+HP022,5,Female,General Medicine,Recorded diagnosis,4,Referral,44593.71,Recovered
+HP023,,Male,Emergency,Recorded diagnosis,5,Elective,75410.54,Recovered
+HP024,72,Female,General Medicine,Recorded diagnosis,4,Referral,50791.0,Recovered
+HP025,41,Female,General Medicine,Recorded diagnosis,4,Emergency,34063.1,Recovered
+HP026,45,Male,Neurology,Recorded diagnosis,4,Elective,69027.69,Discharged with follow-up
+HP027,25,Male,Emergency,Recorded diagnosis,3,Elective,61527.34,Recovered
+HP028,71,Male,General Medicine,Recorded diagnosis,4,Elective,54017.03,Recovered
+HP029,31,Female,Cardiology,Recorded diagnosis,3,Emergency,59707.95,Recovered
+HP030,43,Female,General Medicine,Recorded diagnosis,3,Elective,49543.18,Recovered
+HP031,49,Male,Cardiology,,2,Elective,68460.59,Recovered
+HP032,74,Male,General Medicine,Recorded diagnosis,4,Referral,54487.16,Recovered
+HP033,62,Female,General Medicine,Recorded diagnosis,7,Emergency,54761.51,Recovered
+HP034,66,Female,General Medicine,Recorded diagnosis,1,Elective,30209.25,Recovered
+HP035,35,Female,General Medicine,Recorded diagnosis,1,Elective,23775.55,Recovered
+HP036,71,Female,Emergency,Recorded diagnosis,5,Elective,65988.73,Recovered
+HP037,33,Female,Orthopedics,Recorded diagnosis,7,Emergency,79577.26,Recovered
+HP038,20,Male,Emergency,Recorded diagnosis,4,Emergency,55949.16,Discharged with follow-up
+HP039,48,Female,Neurology,Recorded diagnosis,4,Emergency,55028.09,Recovered
+HP040,45,Male,Neurology,Recorded diagnosis,3,Elective,50474.84,Recovered
+HP041,68,Male,Emergency,Recorded diagnosis,2,Referral,53342.9,Recovered
+HP042,46,Male,Cardiology,Recorded diagnosis,4,Referral,58510.35,Recovered
+HP043,1,Female,General Medicine,Recorded diagnosis,5,Emergency,50973.18,Recovered
+HP044,34,Female,Orthopedics,Recorded diagnosis,4,Referral,55735.98,Recovered
+HP045,33,Male,General Medicine,Recorded diagnosis,7,Emergency,66094.87,Recovered
+HP046,31,Male,Orthopedics,Recorded diagnosis,9,Elective,96967.32,Recovered
+HP047,62,Male,General Medicine,Recorded diagnosis,3,Elective,45509.41,Recovered
+HP048,41,Male,Orthopedics,Recorded diagnosis,9,Emergency,84993.43,Recovered
+HP049,31,Female,Cardiology,Recorded diagnosis,3,Elective,55660.28,Recovered
+HP050,70,Male,Emergency,Recorded diagnosis,5,Elective,62718.41,Recovered
+HP051,17,Female,General Medicine,Recorded diagnosis,5,Elective,61126.86,Recovered
+HP052,47,Male,Emergency,Recorded diagnosis,8,Emergency,82858.85,Recovered
+HP053,45,Female,Neurology,Recorded diagnosis,7,Elective,88143.46,Recovered
+HP054,35,Male,General Medicine,Recorded diagnosis,5,Referral,50729.92,Recovered
+HP055,52,Male,Neurology,Recorded diagnosis,4,Emergency,59923.89,Recovered
+HP056,41,Female,Cardiology,Recorded diagnosis,8,Emergency,86317.86,Recovered
+HP057,36,Female,General Medicine,Recorded diagnosis,4,Emergency,52163.21,Discharged with follow-up
+HP058,34,Female,Orthopedics,Recorded diagnosis,1,Elective,32856.05,Recovered
+HP059,58,Female,Emergency,Recorded diagnosis,3,Elective,51667.2,Recovered
+HP060,34,Male,General Medicine,Recorded diagnosis,1,Elective,33037.14,Recovered
+HP061,11,Female,Cardiology,Recorded diagnosis,5,Elective,69644.28,Recovered
+HP062,47,Female,Orthopedics,Recorded diagnosis,5,Elective,62184.49,Recovered
+HP063,63,Female,General Medicine,Recorded diagnosis,5,Referral,55475.49,Recovered
+HP064,45,Female,General Medicine,Recorded diagnosis,3,Referral,,Recovered
+HP065,56,Female,General Medicine,Recorded diagnosis,6,Emergency,59274.16,Recovered
+HP066,50,Male,General Medicine,Recorded diagnosis,5,Referral,66451.79,Recovered
+HP067,4,,Pediatrics,Recorded diagnosis,3,Referral,43673.24,Recovered
+HP068,70,Female,Emergency,Recorded diagnosis,8,Emergency,89456.06,Recovered
+HP069,32,Female,General Medicine,Recorded diagnosis,4,Referral,38837.18,Recovered
+HP070,31,Female,Orthopedics,Recorded diagnosis,4,Emergency,65634.93,Recovered
+HP071,27,Female,Orthopedics,Recorded diagnosis,4,Referral,41627.28,Recovered
+HP072,33,Male,Emergency,Recorded diagnosis,7,Emergency,85151.19,Recovered
+HP073,55,Male,Emergency,Recorded diagnosis,4,Emergency,56701.99,Recovered
+HP074,1,Male,Pediatrics,Recorded diagnosis,4,Elective,39206.99,Discharged with follow-up
+HP075,72,Female,Orthopedics,Recorded diagnosis,7,Emergency,73333.77,Recovered
+HP076,71,Female,General Medicine,Recorded diagnosis,2,Emergency,40548.28,Recovered
+HP077,46,Male,General Medicine,Recorded diagnosis,4,Referral,53792.39,Recovered
+HP078,40,Female,Cardiology,Recorded diagnosis,6,Elective,84998.8,Recovered
+HP079,46,Male,General Medicine,Recorded diagnosis,5,Emergency,59077.16,Recovered
+HP080,18,Female,General Medicine,Recorded diagnosis,4,Referral,44832.32,Discharged with follow-up
+HP081,38,Male,General Medicine,Recorded diagnosis,3,Elective,36295.43,Recovered
+HP082,34,Female,Emergency,Recorded diagnosis,7,Emergency,77802.93,Recovered
+HP083,45,Female,Emergency,Recorded diagnosis,5,Emergency,71203.17,Recovered
+HP084,45,Female,Pediatrics,Recorded diagnosis,5,Referral,58512.87,Discharged with follow-up
+HP085,61,Female,Cardiology,Recorded diagnosis,6,Elective,82629.27,Discharged with follow-up
+HP086,24,Female,Emergency,Recorded diagnosis,6,Emergency,73258.28,Recovered
+HP087,11,Male,Emergency,Recorded diagnosis,5,Emergency,59619.96,Recovered
+HP088,32,Male,Emergency,Recorded diagnosis,4,Referral,53293.88,Recovered
+HP089,31,Male,Emergency,Recorded diagnosis,5,Emergency,63016.14,Recovered
+HP090,19,Male,General Medicine,Recorded diagnosis,5,Emergency,51150.29,Recovered
+HP091,69,Male,Cardiology,Recorded diagnosis,8,Emergency,102517.35,Recovered
+HP092,33,Female,Cardiology,Recorded diagnosis,6,Emergency,83163.7,Discharged with follow-up
+HP093,67,Male,Orthopedics,,5,Emergency,60327.42,Discharged with follow-up
+HP094,30,Female,Orthopedics,Recorded diagnosis,2,Elective,43209.79,Recovered
+HP095,49,Female,General Medicine,Recorded diagnosis,5,Referral,45110.14,Discharged with follow-up
+HP096,36,Male,Orthopedics,Recorded diagnosis,2,Referral,54354.81,Discharged with follow-up
+HP097,71,Male,Cardiology,Recorded diagnosis,3,Elective,58581.43,Discharged with follow-up
+HP098,37,Female,Neurology,Recorded diagnosis,6,Emergency,75175.28,Recovered
+HP099,28,Female,Neurology,Recorded diagnosis,7,Emergency,83608.49,Discharged with follow-up
+HP100,,Female,Orthopedics,Recorded diagnosis,3,Referral,53028.49,Recovered
+HP101,20,Male,Cardiology,,7,Elective,81386.16,Discharged with follow-up
+HP102,67,Male,General Medicine,Recorded diagnosis,2,Elective,38031.04,Recovered
+HP103,46,Male,Emergency,Recorded diagnosis,3,Elective,43347.02,Recovered
+HP104,23,Male,General Medicine,Recorded diagnosis,4,Elective,49977.86,Recovered
+HP105,55,Male,General Medicine,Recorded diagnosis,6,Emergency,54716.05,Recovered
+HP106,70,Male,Emergency,Recorded diagnosis,6,Emergency,68173.98,Recovered
+HP107,1,Male,Orthopedics,Recorded diagnosis,1,Elective,37066.64,Recovered
+HP108,10,Female,Emergency,Recorded diagnosis,4,Referral,56842.26,Recovered
+HP109,32,Female,Orthopedics,Recorded diagnosis,1,Elective,32190.23,Recovered
+HP110,44,Female,Cardiology,Recorded diagnosis,4,Referral,72014.74,Recovered
+HP111,35,Male,General Medicine,Recorded diagnosis,5,Emergency,53733.63,Recovered
+HP112,15,Male,Pediatrics,Recorded diagnosis,6,Emergency,55688.74,Recovered
+HP113,26,Male,Pediatrics,Recorded diagnosis,5,Emergency,50570.02,Recovered
+HP114,38,Male,Emergency,Recorded diagnosis,4,Emergency,61482.76,Recovered
+HP115,1,Male,Pediatrics,Recorded diagnosis,2,Elective,26336.35,Recovered
+HP116,41,Female,Emergency,Recorded diagnosis,6,Emergency,82668.21,Recovered
+HP117,65,Male,Cardiology,Recorded diagnosis,5,Emergency,80351.22,Recovered
+HP118,42,Male,Cardiology,Recorded diagnosis,5,Elective,67530.61,Recovered
+HP119,22,Female,Pediatrics,Recorded diagnosis,3,Elective,29806.98,Recovered
+HP120,33,Female,General Medicine,Recorded diagnosis,3,Elective,45083.43,Recovered
+HP121,45,Male,Cardiology,Recorded diagnosis,10,Emergency,111486.8,Recovered
+HP122,23,Male,General Medicine,Recorded diagnosis,5,Elective,52062.14,Recovered
+HP123,22,Male,Cardiology,Recorded diagnosis,4,Elective,68779.01,Discharged with follow-up
+HP124,28,Female,Cardiology,Recorded diagnosis,5,Elective,79821.89,Recovered
+HP125,54,Male,General Medicine,Recorded diagnosis,3,Emergency,32955.91,Recovered
+HP126,69,Female,Cardiology,Recorded diagnosis,6,Elective,75587.84,Recovered
+HP127,22,Female,Emergency,Recorded diagnosis,1,Emergency,34368.32,Recovered
+HP128,66,Female,Cardiology,Recorded diagnosis,4,Emergency,74762.2,Discharged with follow-up
+HP129,57,Female,General Medicine,Recorded diagnosis,6,Emergency,63924.47,Discharged with follow-up
+HP130,37,Female,General Medicine,Recorded diagnosis,4,Elective,51143.74,Recovered
+HP131,19,Female,Pediatrics,Recorded diagnosis,3,Referral,39844.78,Recovered
+HP132,43,Male,General Medicine,Recorded diagnosis,3,Elective,34187.92,Recovered
+HP133,68,Male,Neurology,Recorded diagnosis,6,Elective,75333.69,Discharged with follow-up
+HP134,45,Female,General Medicine,Recorded diagnosis,6,Emergency,62247.1,Recovered
+HP135,39,Male,Emergency,Recorded diagnosis,1,Elective,52221.64,Recovered
+HP136,46,Female,Emergency,Recorded diagnosis,3,Referral,54225.45,Recovered
+HP137,65,Female,General Medicine,Recorded diagnosis,9,Emergency,87959.61,Recovered
+HP138,68,Female,General Medicine,Recorded diagnosis,6,Emergency,62966.3,Recovered
+HP139,49,Male,Emergency,Recorded diagnosis,3,Elective,57016.17,Recovered
+HP140,51,Female,Neurology,Recorded diagnosis,7,Elective,78701.42,Recovered
+HP141,14,Female,Emergency,Recorded diagnosis,4,Emergency,,Recovered
+HP142,42,Female,Emergency,Recorded diagnosis,4,Elective,57536.3,Discharged with follow-up
+HP143,25,Male,Orthopedics,Recorded diagnosis,5,Elective,56735.48,Recovered
+HP144,73,Female,Orthopedics,Recorded diagnosis,7,Referral,77885.44,Recovered
+HP145,69,Male,Emergency,Recorded diagnosis,5,Elective,72878.46,Recovered
+HP146,4,Male,Pediatrics,Recorded diagnosis,3,Emergency,44672.29,Recovered
+HP147,48,Male,Emergency,,2,Elective,47018.65,Recovered
+HP148,89,Female,Emergency,Recorded diagnosis,4,Elective,73942.09,Discharged with follow-up
+HP149,65,Male,Orthopedics,Recorded diagnosis,2,Elective,53989.43,Recovered
+HP150,55,Female,Orthopedics,Recorded diagnosis,6,Referral,78058.92,Recovered
+HP151,1,Female,Pediatrics,Recorded diagnosis,6,Emergency,59697.59,Recovered
+HP152,26,Male,Pediatrics,Recorded diagnosis,1,Referral,30776.06,Recovered
+HP153,54,Male,Emergency,Recorded diagnosis,6,Referral,76917.74,Recovered
+HP154,36,Male,Cardiology,Recorded diagnosis,4,Elective,69033.12,Recovered
+HP155,74,Female,Cardiology,Recorded diagnosis,6,Referral,80996.85,Recovered
+HP156,20,Female,General Medicine,Recorded diagnosis,4,Elective,46776.24,Recovered
+HP157,58,,Neurology,Recorded diagnosis,7,Emergency,91890.84,Recovered
+HP158,61,Male,Orthopedics,Recorded diagnosis,7,Emergency,75042.15,Recovered
+HP159,35,Female,General Medicine,Recorded diagnosis,4,Elective,55324.8,Recovered
+HP160,60,Female,General Medicine,Recorded diagnosis,4,Elective,45187.45,Discharged with follow-up
+HP161,85,Female,Emergency,Recorded diagnosis,4,Referral,62593.6,Recovered
+HP162,56,Female,General Medicine,Recorded diagnosis,2,Elective,25489.44,Recovered
+HP163,17,Female,Emergency,Recorded diagnosis,4,Referral,54408.1,Recovered
+HP164,51,Male,Emergency,Recorded diagnosis,6,Elective,80640.25,Discharged with follow-up
+HP165,44,Male,General Medicine,Recorded diagnosis,8,Emergency,78377.85,Recovered
+HP166,83,Female,Orthopedics,Recorded diagnosis,8,Emergency,86531.83,Recovered
+HP167,25,Female,General Medicine,Recorded diagnosis,5,Emergency,59217.19,Recovered
+HP168,36,Male,Orthopedics,Recorded diagnosis,2,Elective,38773.77,Recovered
+HP169,20,Female,Pediatrics,Recorded diagnosis,4,Elective,48455.67,Recovered
+HP170,49,,General Medicine,Recorded diagnosis,3,Referral,36089.18,Recovered
+HP171,41,Female,Emergency,Recorded diagnosis,5,Referral,71558.23,Discharged with follow-up
+HP172,73,Male,Orthopedics,Recorded diagnosis,5,Elective,69207.23,Recovered
+HP173,77,Female,General Medicine,Recorded diagnosis,4,Referral,55955.36,Discharged with follow-up
+HP174,34,Female,Emergency,Recorded diagnosis,6,Emergency,73899.83,Recovered
+HP175,54,Female,Orthopedics,Recorded diagnosis,5,Elective,59246.12,Recovered
+HP176,60,Male,Emergency,Recorded diagnosis,4,Elective,48552.67,Discharged with follow-up
+HP177,50,Male,Cardiology,Recorded diagnosis,4,Elective,76887.48,Recovered
+HP178,60,Female,Emergency,Recorded diagnosis,5,Emergency,67618.3,Recovered
+HP179,30,Male,Emergency,Recorded diagnosis,1,Elective,38255.28,Recovered
+HP180,32,Male,Emergency,Recorded diagnosis,3,Elective,44797.06,Recovered
+HP181,55,Male,General Medicine,Recorded diagnosis,5,Elective,61105.58,Recovered
+HP182,32,Female,Cardiology,Recorded diagnosis,4,Elective,65291.03,Discharged with follow-up
+HP183,30,Male,Emergency,Recorded diagnosis,5,Emergency,,Recovered
+HP184,15,Female,Orthopedics,Recorded diagnosis,7,Elective,75978.94,Recovered
+HP185,45,Male,Cardiology,Recorded diagnosis,4,Elective,61351.5,Recovered
+HP186,55,Male,General Medicine,Recorded diagnosis,8,Emergency,66426.4,Discharged with follow-up
+HP187,39,Female,Cardiology,Recorded diagnosis,3,Elective,64463.34,Recovered
+HP188,43,Female,Emergency,Recorded diagnosis,4,Referral,65551.81,Recovered
+HP189,42,Male,General Medicine,Recorded diagnosis,3,Emergency,38647.93,Recovered
+HP190,39,Female,General Medicine,Recorded diagnosis,5,Emergency,58881.93,Discharged with follow-up
+HP191,51,Male,Orthopedics,Recorded diagnosis,6,Referral,65807.76,Recovered
+HP192,15,Male,Emergency,Recorded diagnosis,2,Elective,39230.13,Recovered
+HP193,18,Female,Cardiology,Recorded diagnosis,4,Elective,60131.31,Recovered
+HP194,46,Male,Cardiology,Recorded diagnosis,9,Emergency,90994.32,Discharged with follow-up
+HP195,27,Male,Cardiology,Recorded diagnosis,6,Elective,73975.53,Discharged with follow-up
+HP196,51,Female,General Medicine,Recorded diagnosis,5,Emergency,55557.37,Discharged with follow-up
+HP197,39,Female,Cardiology,Recorded diagnosis,9,Emergency,93101.96,Recovered
+HP198,67,Male,Cardiology,Recorded diagnosis,5,Elective,76170.87,Recovered
+HP199,55,Male,Neurology,Recorded diagnosis,7,Emergency,78923.97,Recovered
+HP200,65,Female,Emergency,Recorded diagnosis,4,Referral,65765.17,Recovered
+HP201,79,Male,Cardiology,Recorded diagnosis,8,Emergency,91691.76,Recovered
+HP202,65,Male,Emergency,Recorded diagnosis,4,Elective,52827.82,Recovered
+HP203,29,Female,General Medicine,Recorded diagnosis,5,Emergency,46937.79,Recovered
+HP204,76,Female,Emergency,Recorded diagnosis,4,Elective,59513.36,Recovered
+HP205,52,Female,Emergency,Recorded diagnosis,6,Referral,73520.3,Recovered
+HP206,26,Male,General Medicine,Recorded diagnosis,6,Elective,56644.68,Recovered
+HP207,13,Female,Pediatrics,Recorded diagnosis,3,Elective,39976.52,Recovered
+HP208,66,Female,General Medicine,Recorded diagnosis,6,Elective,58266.51,Recovered
+HP209,20,Male,Neurology,Recorded diagnosis,5,Elective,61792.8,Recovered
+HP210,89,Male,Orthopedics,Recorded diagnosis,5,Referral,72368.18,Recovered
+HP211,38,Female,General Medicine,Recorded diagnosis,4,Elective,37859.81,Recovered
+HP212,61,Female,Emergency,Recorded diagnosis,4,Referral,69029.13,Recovered
+HP213,34,Male,General Medicine,Recorded diagnosis,3,Emergency,37881.58,Recovered
+HP214,39,Female,Emergency,Recorded diagnosis,5,Referral,72911.63,Recovered
+HP215,41,Female,Neurology,Recorded diagnosis,8,Emergency,87235.63,Recovered
+HP216,64,Female,General Medicine,Recorded diagnosis,5,Referral,60350.12,Recovered
+HP217,46,Male,Orthopedics,Recorded diagnosis,4,Emergency,64654.95,Recovered
+HP218,48,Female,Emergency,Recorded diagnosis,3,Referral,54211.63,Recovered
+HP219,1,,Pediatrics,Recorded diagnosis,5,Emergency,48127.33,Recovered
+HP220,21,Male,Cardiology,Recorded diagnosis,6,Elective,,Recovered
+HP221,33,Male,General Medicine,Recorded diagnosis,3,Elective,31467.73,Discharged with follow-up
+HP222,62,,Neurology,Recorded diagnosis,4,Referral,58544.13,Recovered
+HP223,66,Female,Neurology,,5,Emergency,65722.9,Recovered
+HP224,35,Male,Cardiology,Recorded diagnosis,4,Elective,73603.99,Discharged with follow-up
+HP225,69,Male,Cardiology,Recorded diagnosis,9,Emergency,93354.93,Discharged with follow-up
+HP226,37,Female,Neurology,Recorded diagnosis,7,Referral,75717.97,Recovered
+HP227,25,Male,Pediatrics,Recorded diagnosis,5,Elective,46127.88,Recovered
+HP228,34,Male,Emergency,Recorded diagnosis,7,Elective,81479.89,Recovered
+HP229,42,Male,Emergency,Recorded diagnosis,1,Elective,36126.76,Recovered
+HP230,79,Female,Neurology,Recorded diagnosis,8,Emergency,88946.13,Recovered
+HP231,50,Female,Neurology,Recorded diagnosis,7,Emergency,87539.72,Recovered
+HP232,56,Male,Emergency,Recorded diagnosis,5,Emergency,69254.79,Discharged with follow-up
+HP233,56,Male,General Medicine,Recorded diagnosis,2,Elective,45004.8,Recovered
+HP234,,Female,General Medicine,Recorded diagnosis,10,Emergency,86602.4,Discharged with follow-up
+HP235,11,Male,Pediatrics,Recorded diagnosis,5,Referral,48448.38,Recovered
+HP236,43,Male,Orthopedics,Recorded diagnosis,4,Elective,45821.35,Recovered
+HP237,39,Female,Emergency,Recorded diagnosis,8,Emergency,85917.08,Recovered
+HP238,46,Male,General Medicine,Recorded diagnosis,3,Elective,32471.24,Discharged with follow-up
+HP239,9,Male,Pediatrics,Recorded diagnosis,5,Elective,34649.28,Recovered
+HP240,70,Male,General Medicine,Recorded diagnosis,6,Elective,72931.89,Recovered
+HP241,26,Male,Emergency,Recorded diagnosis,6,Emergency,63475.26,Recovered
+HP242,57,Female,Orthopedics,Recorded diagnosis,4,Elective,61103.29,Recovered
+HP243,57,Female,Orthopedics,Recorded diagnosis,4,Referral,59551.16,Recovered
+HP244,23,Female,Orthopedics,Recorded diagnosis,8,Emergency,86208.59,Recovered
+HP245,65,Male,Orthopedics,Recorded diagnosis,3,Elective,63175.02,Recovered
+HP246,18,Female,Pediatrics,Recorded diagnosis,5,Emergency,45658.92,Recovered
+HP247,24,Male,General Medicine,Recorded diagnosis,4,Elective,43086.4,Recovered
+HP248,62,Male,Orthopedics,Recorded diagnosis,5,Emergency,73116.65,Recovered
+HP249,53,Female,Cardiology,Recorded diagnosis,5,Emergency,74002.05,Recovered
+HP250,35,Female,Orthopedics,Recorded diagnosis,3,Emergency,51473.33,Recovered
+HP251,31,Female,Orthopedics,Recorded diagnosis,2,Emergency,42147.66,Recovered
+HP252,,Female,General Medicine,Recorded diagnosis,4,Elective,42756.4,Recovered
+HP253,34,,General Medicine,Recorded diagnosis,3,Referral,38444.49,Recovered
+HP254,50,Male,Orthopedics,Recorded diagnosis,6,Emergency,78419.82,Discharged with follow-up
+HP255,30,Female,Emergency,Recorded diagnosis,4,Elective,54960.22,Recovered
+HP256,53,Male,General Medicine,Recorded diagnosis,4,Referral,44658.04,Discharged with follow-up
+HP257,50,Male,General Medicine,Recorded diagnosis,5,Referral,52126.53,Recovered
+HP258,41,Male,Emergency,Recorded diagnosis,4,Emergency,66229.33,Recovered
+HP259,50,Female,Orthopedics,Recorded diagnosis,4,Referral,65069.61,Recovered
+HP260,13,Male,Pediatrics,Recorded diagnosis,3,Referral,,Recovered
+HP261,1,Male,Pediatrics,Recorded diagnosis,5,Emergency,36131.75,Recovered
+HP262,62,Male,General Medicine,Recorded diagnosis,4,Elective,32103.72,Recovered
+HP263,41,Female,Cardiology,Recorded diagnosis,3,Emergency,52827.77,Recovered
+HP264,34,Male,General Medicine,Recorded diagnosis,3,Emergency,45133.26,Recovered
+HP265,83,Male,General Medicine,Recorded diagnosis,6,Elective,65632.87,Recovered
+HP266,30,Male,Emergency,Recorded diagnosis,5,Emergency,64210.8,Recovered
+HP267,52,Male,General Medicine,Recorded diagnosis,5,Referral,57193.86,Recovered
+HP268,57,Male,Pediatrics,Recorded diagnosis,3,Elective,36315.49,Recovered
+HP269,64,Female,General Medicine,Recorded diagnosis,7,Emergency,,Recovered
+HP270,1,Female,Pediatrics,Recorded diagnosis,4,Elective,35308.88,Recovered
+HP271,48,Female,Neurology,Recorded diagnosis,8,Emergency,84531.98,Discharged with follow-up
+HP272,47,Female,Emergency,Recorded diagnosis,3,Referral,47703.81,Recovered
+HP273,51,Male,Orthopedics,Recorded diagnosis,4,Referral,60723.11,Recovered
+HP274,1,Female,Pediatrics,Recorded diagnosis,4,Elective,50252.88,Recovered
+HP275,55,Female,Orthopedics,Recorded diagnosis,5,Elective,60157.88,Discharged with follow-up
+HP276,48,Male,Orthopedics,Recorded diagnosis,7,Emergency,79330.19,Discharged with follow-up
+HP277,33,Female,Orthopedics,Recorded diagnosis,1,Referral,36845.0,Discharged with follow-up
+HP278,89,Female,Emergency,Recorded diagnosis,4,Referral,67196.52,Recovered
+HP279,56,Female,Cardiology,Recorded diagnosis,6,Elective,72980.39,Recovered
+HP280,32,Female,Emergency,Recorded diagnosis,3,Referral,57823.89,Recovered
+HP281,38,Female,General Medicine,,4,Emergency,44940.71,Discharged with follow-up
+HP282,33,Female,Emergency,Recorded diagnosis,2,Emergency,44085.0,Recovered
+HP283,40,Male,Cardiology,Recorded diagnosis,5,Referral,71043.18,Recovered
+HP284,84,Female,General Medicine,Recorded diagnosis,5,Referral,52378.41,Discharged with follow-up
+HP285,35,Female,General Medicine,Recorded diagnosis,4,Referral,49559.6,Recovered
+HP286,28,Female,General Medicine,Recorded diagnosis,2,Referral,41451.48,Recovered
+HP287,42,Female,General Medicine,Recorded diagnosis,7,Emergency,76590.79,Recovered
+HP288,49,Female,Cardiology,Recorded diagnosis,7,Elective,92134.96,Recovered
+HP289,36,Female,Orthopedics,Recorded diagnosis,5,Elective,53949.27,Recovered
+HP290,59,Male,Orthopedics,Recorded diagnosis,5,Emergency,64836.87,Discharged with follow-up
+HP291,44,Male,General Medicine,Recorded diagnosis,7,Referral,64845.99,Recovered
+HP292,56,Male,General Medicine,Recorded diagnosis,5,Emergency,53274.92,Recovered
+HP293,33,Female,Emergency,Recorded diagnosis,6,Emergency,76658.59,Recovered
+HP294,50,Female,Emergency,Recorded diagnosis,6,Referral,74048.79,Recovered
+HP295,42,Female,Cardiology,Recorded diagnosis,5,Elective,65182.32,Recovered
+HP296,65,Female,Cardiology,Recorded diagnosis,6,Elective,74181.31,Recovered
+HP297,50,Female,Emergency,Recorded diagnosis,4,Elective,55576.78,Recovered
+HP298,67,Female,Emergency,Recorded diagnosis,6,Emergency,71586.17,Recovered
+HP299,35,Male,Emergency,Recorded diagnosis,5,Emergency,71195.82,Discharged with follow-up
+HP300,62,Male,Emergency,Recorded diagnosis,5,Emergency,62780.79,Recovered
+HP301,39,Male,Cardiology,Recorded diagnosis,6,Emergency,76112.34,Recovered
+HP302,35,Male,Emergency,Recorded diagnosis,5,Emergency,61291.02,Recovered
+HP303,44,Female,Cardiology,Recorded diagnosis,7,Elective,92195.81,Recovered
+HP304,58,Female,Emergency,Recorded diagnosis,5,Emergency,74704.46,Discharged with follow-up
+HP305,67,Female,General Medicine,Recorded diagnosis,4,Elective,52327.92,Recovered
+HP306,51,Male,General Medicine,Recorded diagnosis,4,Elective,46396.25,Recovered
+HP307,51,Male,Emergency,Recorded diagnosis,7,Emergency,77830.77,Recovered
+HP308,75,Male,Cardiology,Recorded diagnosis,6,Emergency,68274.97,Recovered
+HP309,73,Male,General Medicine,Recorded diagnosis,5,Referral,61200.51,Discharged with follow-up
+HP310,53,Female,Emergency,Recorded diagnosis,5,Emergency,73616.72,Discharged with follow-up
+HP311,70,Male,Neurology,Recorded diagnosis,6,Emergency,75961.34,Recovered
+HP312,82,Female,General Medicine,Recorded diagnosis,2,Elective,35679.33,Discharged with follow-up
+HP313,47,Male,Emergency,Recorded diagnosis,3,Referral,46754.87,Recovered
+HP314,61,Female,Cardiology,Recorded diagnosis,7,Referral,87956.27,Recovered
+HP315,8,Male,Pediatrics,Recorded diagnosis,4,Referral,40442.07,Recovered
+HP316,53,Male,Cardiology,Recorded diagnosis,5,Elective,71263.35,Discharged with follow-up
+HP317,11,Male,Cardiology,Recorded diagnosis,5,Elective,68015.61,Recovered
+HP318,18,Male,General Medicine,Recorded diagnosis,4,Emergency,44154.51,Discharged with follow-up
+HP319,1,Female,General Medicine,Recorded diagnosis,3,Elective,22940.49,Recovered
+HP320,80,Female,Cardiology,Recorded diagnosis,6,Elective,83398.81,Recovered
+HP321,38,Male,General Medicine,Recorded diagnosis,7,Referral,71435.84,Recovered
+HP322,41,Female,General Medicine,Recorded diagnosis,7,Emergency,66455.42,Recovered
+HP323,44,Male,Emergency,Recorded diagnosis,6,Emergency,,Discharged with follow-up
+HP324,50,Female,General Medicine,Recorded diagnosis,2,Elective,38042.23,Recovered
+HP325,34,Female,General Medicine,Recorded diagnosis,3,Elective,42705.02,Recovered
+HP326,35,Male,Cardiology,Recorded diagnosis,8,Emergency,84006.46,Recovered
+HP327,62,Female,Neurology,,6,Emergency,84272.6,Discharged with follow-up
+HP328,41,Male,Orthopedics,Recorded diagnosis,5,Referral,,Recovered
+HP329,31,Male,Emergency,Recorded diagnosis,3,Emergency,51494.6,Recovered
+HP330,23,Male,Neurology,Recorded diagnosis,7,Emergency,85683.86,Discharged with follow-up
+HP331,8,Male,Pediatrics,Recorded diagnosis,1,Elective,13545.03,Recovered
+HP332,40,Male,Cardiology,Recorded diagnosis,5,Elective,67988.11,Discharged with follow-up
+HP333,44,Male,General Medicine,Recorded diagnosis,2,Emergency,35282.55,Recovered
+HP334,40,Male,Pediatrics,Recorded diagnosis,6,Emergency,50627.49,Discharged with follow-up
+HP335,50,Male,General Medicine,Recorded diagnosis,4,Referral,47618.74,Recovered
+HP336,18,Female,General Medicine,Recorded diagnosis,3,Referral,37336.18,Recovered
+HP337,48,Female,Cardiology,Recorded diagnosis,4,Elective,69636.17,Recovered
+HP338,37,Female,Emergency,,4,Emergency,72532.59,Recovered
+HP339,46,Female,General Medicine,Recorded diagnosis,2,Emergency,45689.99,Discharged with follow-up
+HP340,47,Female,Cardiology,Recorded diagnosis,7,Elective,88682.4,Discharged with follow-up
+HP341,1,Male,Pediatrics,Recorded diagnosis,3,Elective,48697.86,Discharged with follow-up
+HP342,34,Female,Pediatrics,Recorded diagnosis,5,Referral,56234.98,Recovered
+HP343,55,Female,Emergency,Recorded diagnosis,6,Elective,74258.46,Recovered
+HP344,24,Male,Emergency,Recorded diagnosis,1,Elective,41678.42,Recovered
+HP345,49,Female,General Medicine,Recorded diagnosis,5,Elective,57809.01,Discharged with follow-up
+HP346,1,Male,Pediatrics,Recorded diagnosis,3,Elective,44261.11,Recovered
+HP347,51,Female,Emergency,Recorded diagnosis,9,Emergency,97364.85,Discharged with follow-up
+HP348,,Female,Emergency,Recorded diagnosis,4,Elective,42922.09,Recovered
+HP349,32,Female,General Medicine,Recorded diagnosis,3,Referral,51835.66,Recovered
+HP350,1,Female,Neurology,Recorded diagnosis,3,Elective,45970.31,Recovered
+HP351,27,,Neurology,Recorded diagnosis,4,Elective,50989.4,Recovered
+HP352,,Male,Cardiology,Recorded diagnosis,9,Emergency,101698.84,Discharged with follow-up
+HP353,47,Male,Neurology,Recorded diagnosis,9,Elective,90555.3,Recovered
+HP354,1,Male,Pediatrics,Recorded diagnosis,8,Emergency,77564.18,Discharged with follow-up
+HP355,57,Male,Emergency,Recorded diagnosis,4,Referral,62699.61,Recovered
+HP356,43,Female,Neurology,Recorded diagnosis,5,Referral,71086.88,Recovered
+HP357,48,Male,Orthopedics,Recorded diagnosis,4,Referral,54981.44,Recovered
+HP358,62,Male,Neurology,Recorded diagnosis,7,Elective,76217.73,Recovered
+HP359,67,Female,Emergency,Recorded diagnosis,5,Elective,60382.19,Discharged with follow-up
+HP360,45,Female,General Medicine,Recorded diagnosis,4,Emergency,59141.19,Recovered
+HP361,6,Female,Pediatrics,Recorded diagnosis,5,Elective,46210.14,Recovered
+HP362,21,Male,General Medicine,Recorded diagnosis,6,Emergency,54734.51,Recovered
+HP363,1,Male,Cardiology,Recorded diagnosis,9,Emergency,91020.51,Recovered
+HP364,62,Female,General Medicine,Recorded diagnosis,6,Emergency,57595.28,Discharged with follow-up
+HP365,64,Female,Orthopedics,Recorded diagnosis,8,Emergency,95345.73,Recovered
+HP366,27,Female,Pediatrics,Recorded diagnosis,4,Elective,41469.35,Recovered
+HP367,15,Female,Emergency,Recorded diagnosis,3,Emergency,63741.61,Recovered
+HP368,82,Female,Emergency,Recorded diagnosis,5,Referral,75607.78,Recovered
+HP369,51,Male,Neurology,Recorded diagnosis,5,Elective,80077.95,Recovered
+HP370,66,Male,Cardiology,Recorded diagnosis,6,Elective,80666.81,Recovered
+HP371,41,Male,Emergency,Recorded diagnosis,5,Elective,69989.85,Recovered
+HP372,43,Female,Cardiology,Recorded diagnosis,7,Elective,88333.65,Recovered
+HP373,34,Male,Neurology,Recorded diagnosis,5,Referral,75026.47,Recovered
+HP374,20,Female,General Medicine,Recorded diagnosis,6,Emergency,54012.63,Recovered
+HP375,36,Male,Emergency,,5,Referral,82349.04,Recovered
+HP376,56,Female,General Medicine,Recorded diagnosis,5,Referral,64712.02,Recovered
+HP377,24,Female,Neurology,Recorded diagnosis,3,Elective,55612.88,Discharged with follow-up
+HP378,57,Male,Orthopedics,Recorded diagnosis,5,Elective,62234.9,Recovered
+HP379,46,Male,Neurology,Recorded diagnosis,4,Elective,61628.66,Recovered
+HP380,45,Male,Cardiology,Recorded diagnosis,9,Emergency,104248.03,Recovered
+HP381,74,Female,General Medicine,Recorded diagnosis,3,Elective,39959.13,Recovered
+HP382,54,Male,Cardiology,Recorded diagnosis,6,Referral,82948.31,Recovered
+HP383,36,Female,Orthopedics,Recorded diagnosis,7,Emergency,80747.47,Discharged with follow-up
+HP384,48,Female,General Medicine,Recorded diagnosis,3,Elective,52995.39,Recovered
+HP385,55,Female,Neurology,Recorded diagnosis,5,Referral,75247.28,Recovered
+HP386,59,Female,Emergency,Recorded diagnosis,6,Referral,77042.37,Recovered
+HP387,54,Male,General Medicine,Recorded diagnosis,3,Elective,54866.23,Recovered
+HP388,41,Male,Neurology,Recorded diagnosis,4,Elective,61554.94,Recovered
+HP389,29,Male,Pediatrics,Recorded diagnosis,4,Referral,40969.05,Recovered
+HP390,27,Male,Emergency,Recorded diagnosis,5,Emergency,62624.79,Recovered
+HP391,1,Male,Pediatrics,Recorded diagnosis,2,Emergency,17344.41,Discharged with follow-up
+HP392,36,Male,Neurology,Recorded diagnosis,7,Emergency,78334.84,Recovered
+HP393,23,Male,Neurology,Recorded diagnosis,5,Elective,59456.98,Recovered
+HP394,42,Male,Orthopedics,Recorded diagnosis,4,Elective,68512.13,Recovered
+HP395,47,Male,Emergency,Recorded diagnosis,3,Elective,54506.68,Recovered
+HP396,21,Female,Orthopedics,Recorded diagnosis,4,Emergency,58256.07,Recovered
+HP397,33,Male,General Medicine,Recorded diagnosis,4,Referral,40959.55,Recovered
+HP398,61,Female,Orthopedics,Recorded diagnosis,4,Elective,60131.18,Discharged with follow-up
+HP399,55,Female,Emergency,Recorded diagnosis,9,Emergency,87626.78,Discharged with follow-up
+HP400,58,Female,General Medicine,Recorded diagnosis,2,Referral,37618.13,Recovered

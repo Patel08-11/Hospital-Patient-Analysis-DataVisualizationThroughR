@@ -1,0 +1,3 @@
+# Hospital Patient Analytics
+
+Run the R script from this folder to reproduce analysis.
