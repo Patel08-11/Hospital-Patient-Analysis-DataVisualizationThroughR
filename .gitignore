@@ -1,0 +1,15 @@
+# R session and project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rcheck/
+
+# Temporary files
+*.tmp
+*.swp
+~$*
+
+# Operating system files
+.DS_Store
+Thumbs.db
